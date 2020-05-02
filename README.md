@@ -1,11 +1,12 @@
-## Resources
+## Tech Books Store
 
-React 16.13
+### Resources
 
-React Redux 7.2
+- React 16.13
+- React-Redux 7.2
+- TypeScript 3.8
 
-TypeScript 3.8
+### Usage
 
-## Run application
-
-### `yarn start`
+1. Install dependencies: `yarn install` | `npm install`
+2. Run application on browser: `yarn start` | `npm start`
