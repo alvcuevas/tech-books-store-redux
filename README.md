@@ -1,4 +1,4 @@
-## Tech Books Store
+## Tech Books Store with Redux & Hooks
 
 ### Resources
 
