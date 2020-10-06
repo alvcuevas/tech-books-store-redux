@@ -2,7 +2,7 @@
 
 ### Resources
 
-- React 16.12
+- React 16.13
 - React-Redux 7.2
 - TypeScript 3.8
 
