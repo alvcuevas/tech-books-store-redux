@@ -1,5 +1,4 @@
-## Tech Books Store with Redux & Hooks
-
+## Tech Books Store with Redux Hooks
 ### Resources
 
 - React 16.13
